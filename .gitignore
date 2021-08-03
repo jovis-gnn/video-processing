@@ -1,0 +1,10 @@
+dataset/
+jupyter/
+sync_result/
+__pycache__
+*.jpg
+*.mp4
+*.wav
+*.pkl
+*.pth
+*.model
