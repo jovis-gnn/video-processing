@@ -35,7 +35,7 @@ mkdir tmp
 ```
 
 ## Download checkpoints
-Download pretrained S3FD, lipsync model checkpoints in this [Link](). And put them to directories as mentioned below.
+Download pretrained S3FD, lipsync model checkpoints in this [Link](https://drive.google.com/drive/folders/19OkdtsfP9BYplko6EfB5cKIY669BcAnx?usp=sharing). And put them to directories as mentioned below.
 ```bash
 # for S3FD
 video-processing/s3fd/weights/
