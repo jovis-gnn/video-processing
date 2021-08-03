@@ -5,7 +5,7 @@
 <img width="20%" src="materials/video.gif"/><img width="20%" src="materials/synced_video.gif"/> 
 </p>
 
-This repository provides AV(Audio-Video)synchronization for talking human videos. It uses face-detection model(S3FD) and lipsync model. Thanks for this great work.
+This repository provides AV(Audio-Video)synchronization for talking human videos. It uses face-detection model(S3FD) and lipsync model. Thanks for these great works.
 
 Papers :
 1. [Single Shot Scale-invariant Face Detector](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_S3FD_Single_Shot_ICCV_2017_paper.pdf)
